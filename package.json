@@ -1,11 +1,8 @@
 {
-  "name": "@lendmi/protocol-v1",
-  "author": "Lendmi",
+  "name": "@rostra/protocol-v1",
+  "author": "Rostra",
   "license": "AGPLv3",
-  "contributors": [
-    "Hanzonghua",
-    "Zhangxuesong"
-  ],
+  "contributors": [],
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.1",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
@@ -19,9 +16,7 @@
     "dotenv": "^8.2.0"
   },
   "keywords": [
-    "Lendmi",
     "protocol",
-    "heco",
-    "solidity"
+    "rostra"
   ]
 }
